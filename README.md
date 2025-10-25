@@ -1,9 +1,15 @@
 # Herdling--UKRAINIZATOR
 Українізатор Herdling разом з досягненнями
 
-## <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3553602862"><b>Посібничок у стімі</b></a>
+## <a href="https://github.com/PanVena/Herdling--UKRAINIZATOR/releases/latest"><b>>>>ЗАВАНТАЖИТИ<<<</b></a>
 
-## <a href="https://kuli.com.ua/herdling"><b>КУЛІ</b></a>
+
+
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3553602862"><b>Посібничок у стімі</b></a>
+
+
+
+<a href="https://kuli.com.ua/herdling"><b>КУЛІ</b></a>
 
 
 Українізатор працює для версії 1.3.0 зі Стіму
